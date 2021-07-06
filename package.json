@@ -1,0 +1,26 @@
+{
+  "name": "@xinqingnian/react-virtual-list",
+  "version": "1.0.0",
+  "description": "a virtual-list",
+  "main": "./dist/ReactVirtualList.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "virtual-list"
+  ],
+  "author": "31e",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
