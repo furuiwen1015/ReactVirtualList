@@ -23,7 +23,7 @@ exports.ReactVirtualList = void 0;
 var react_1 = __importStar(require("react"));
 var lodash_1 = require("lodash");
 var ReactVirtualList = function (props) {
-    var children = props.children;
+    var children = props.children, className = props.className;
     var _a = react_1.useState(0), start = _a[0], setStart = _a[1];
     var _b = react_1.useState(children.length), end = _b[0], setEnd = _b[1];
     var _c = react_1.useState(0), startOffset = _c[0], setStartOffset = _c[1];
@@ -63,7 +63,7 @@ var ReactVirtualList = function (props) {
             containerRef.current.removeEventListener("scroll", handleScroll);
         };
     }, [children]);
-    return (react_1.default.createElement("div", { ref: containerRef },
+    return (react_1.default.createElement("div", { ref: containerRef, className: className },
         react_1.default.createElement("div", { style: { padding: startOffset + "px 0 " + endOffset + "px 0" }, ref: listRef }, children.slice(start, end))));
 };
 exports.ReactVirtualList = ReactVirtualList;
