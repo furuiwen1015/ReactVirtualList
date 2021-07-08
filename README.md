@@ -1,7 +1,7 @@
 # @xinqingnian/react-virtual-list
 
 [![](https://img.shields.io/badge/dynamic/json?color=red&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfuruiwen1015)](https://github.com/furuiwen1015)
-[![](https://img.shields.io/badge/NPM-1.0.2-green)](https://www.npmjs.com/package/@xinqingnian/react-virtual-list)
+[![](https://img.shields.io/badge/NPM-1.0.4-green)](https://www.npmjs.com/package/@xinqingnian/react-virtual-list)
 
 a virtual list of React
 
