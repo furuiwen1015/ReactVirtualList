@@ -1,6 +1,6 @@
 {
   "name": "@xinqingnian/react-virtual-list",
-  "version": "0.0.0-development",
+  "version": "1.0.5-development",
   "description": "a virtual list of React",
   "repository": {
     "type": "git",
