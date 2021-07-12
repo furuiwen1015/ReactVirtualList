@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/furuiwen1015/ReactVirtualList/compare/v1.0.4...v1.1.0) (2021-07-12)
+
+
+### Features
+
+* update version ([f2baa23](https://github.com/furuiwen1015/ReactVirtualList/commit/f2baa23a298965665b5d38ade33d0d9ccad027c9))
+
 ## [1.0.1](https://github.com/furuiwen1015/ReactVirtualList/compare/v1.0.0...v1.0.1) (2021-07-09)
 
 
